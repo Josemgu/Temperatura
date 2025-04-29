@@ -1,5 +1,5 @@
 Codio de practica en Java 
-* Es una conversion de temperatura codigo del la practica
+* Es una conversion de temperatura codigo de la practica
   
 * public class DesafioTemperatura {
 
